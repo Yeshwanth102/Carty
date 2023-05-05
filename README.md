@@ -7,7 +7,7 @@ Clicking on the cart icon navigates the user to the checkout screen where they c
 
 This application demonstrates the use of React hooks such as useState and useEffect, as well as the FlatList component for rendering a list of items. It also uses the Ionicons component from the Expo vector icons library for displaying the cart icon.
 
-##Find the application screenshots below:
+#Find the application screenshots below:
 
 ![IMG_2728](https://user-images.githubusercontent.com/132593114/236379922-2647641b-5cd6-40d1-8265-f473c74e6a74.PNG)
 ![IMG_2DDD580CE85A-1](https://user-images.githubusercontent.com/132593114/236380119-1c41ce26-1b3a-4544-b559-e06081309613.jpeg)
